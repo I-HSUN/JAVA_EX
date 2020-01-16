@@ -1,0 +1,46 @@
+package JavaEx_Certificate_808.ch1_javaBasic;
+
+public class ex06 {
+
+	public static void main(String[] args) {
+		int i, j = 0;
+		i = (3 * 2 + 4 + 5);
+		j = (3 * ((2 + 4) + 5));
+		System.out.println("i:" + i + "\nj:" + j);
+
+	}
+
+}
+
+/*
+Given:
+
+int i, j = 0;
+i = (3 * 2 + 4 + 5);
+j = (3 * ((2 + 4) + 5));
+System.out.println("i:" + i + "\nj:" + j);
+What is the result?
+
+A.
+
+i:16
+j:33
+
+B.
+
+i.15
+j:33
+
+C.
+
+i:33
+j:23
+
+D.
+
+i:15
+j:23
+
+
+
+*/
