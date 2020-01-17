@@ -5,32 +5,31 @@ import java.util.List;
 
 public class ex08 {
 
-	public static void main(String[] args) {
-		 List cs = new ArrayList();
-	        cs.add("Java");
-	        cs.add("C");
-	        Student s = new Student(123, "Fred", cs);//int,String , List
-	        System.out.println(s);
-		
+    public static void main(String[] args) {
+        List cs = new ArrayList();
+        cs.add("Java");
+        cs.add("C");
+        Student s = new Student(123, "Fred", cs);//int,String , List
+        System.out.println(s);
 
-	}
+    }
 
 }
 
 class Student {
-	 
+
     int rollnumber;
     String name;
     List cources = new ArrayList();
-    
-    Student( int rollnumber,String name,List cources){
-	   
-	}
-   
+
+    Student(int rollnumber, String name, List cources) {
+
+    }
+
     public String toString() {
         return rollnumber + " : " + name + " : " + cources;
     }
-   
+
 }
 //
 /*

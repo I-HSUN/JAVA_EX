@@ -2,15 +2,14 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex04 {
 
-	public static void main(String[] args) {
-		 int ii = 0;
-		    int jj = 7;
-		    for (ii = 0; ii < jj - 1; ii = ii + 2) {
-		        System.out.print(ii + " ");
-		    }
-	   
+    public static void main(String[] args) {
+        int ii = 0;
+        int jj = 7;
+        for (ii = 0; ii < jj - 1; ii = ii + 2) {
+            System.out.print(ii + " ");
+        }
 
-	}
+    }
 
 }
 /*

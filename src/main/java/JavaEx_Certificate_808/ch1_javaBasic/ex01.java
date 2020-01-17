@@ -2,21 +2,20 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex01 {
 
-	public static void main(String[] args) {
-		 String s = "A";
-		 
-	        switch (s) {
-	            case "a":
-	                System.out.println("simaple A ");
-	            
-	            case "A":
-	                System.out.print("Capital A ");
-	            default:
-	                System.out.print("default ");
-	        }
-		
-		
-	}
+    public static void main(String[] args) {
+        String s = "A";
+
+        switch (s) {
+            case "a":
+                System.out.println("simaple A ");
+
+            case "A":
+                System.out.print("Capital A ");
+            default:
+                System.out.print("default ");
+        }
+
+    }
 }
 
 /*

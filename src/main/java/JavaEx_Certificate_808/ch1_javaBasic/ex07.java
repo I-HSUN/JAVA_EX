@@ -2,12 +2,12 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex07 {
 
-	public static void main(String[] args) {
-		float x = 22.00f % 3.00f;//1.0
-		int y = 22 % 3;//1
-		System.out.print(x + ", " + y);
+    public static void main(String[] args) {
+        float x = 22.00f % 3.00f;//1.0
+        int y = 22 % 3;//1
+        System.out.print(x + ", " + y);
 
-	}
+    }
 
 }
 /*
