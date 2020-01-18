@@ -2,14 +2,14 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex23 {
 
-	public static void main(String[] args) {
-		Integer aVar=9;
-		if (aVar++ < 10) {//avar<10;avar=aver+1;
-		    System.out.println(aVar + " Hello World!");
-		} else {
-		    System.out.println(aVar + " Hello Universe!");
-		}
-	}
+    public static void main(String[] args) {
+        Integer aVar = 9;
+        if (aVar++ < 10) {//avar<10;avar=aver+1;
+            System.out.println(aVar + " Hello World!");
+        } else {
+            System.out.println(aVar + " Hello Universe!");
+        }
+    }
 
 }
 /*

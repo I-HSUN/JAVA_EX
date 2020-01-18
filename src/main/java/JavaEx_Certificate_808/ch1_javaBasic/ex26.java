@@ -1,16 +1,15 @@
 package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex26 {
-	 
-	 
-	public static String doMsg(char x) {
+
+    public static String doMsg(char x) {
         return "Good Day!";
     }
- 
+
     public static String doMsg(int y) {
         return "Good Luck!";
     }
- 
+
     public static void main(String[] args) {
         char x = 8;
         int z = '8';
@@ -64,4 +63,4 @@ E. Compilation fails
 
 
 
-*/
+ */

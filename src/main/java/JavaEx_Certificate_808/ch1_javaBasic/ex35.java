@@ -2,21 +2,19 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex35 {
 
-	public static void main(String[] args) {
-		int b = 3;
-		if (!(b > 3)) {
-		    System.out.println("square ");
-		}
-		
-		
-		{
-		    System.out.println("circle ");
-		}
-		
-		
-		System.out.println("...");
+    public static void main(String[] args) {
+        int b = 3;
+        if (!(b > 3)) {
+            System.out.println("square ");
+        }
 
-	}
+        {
+            System.out.println("circle ");
+        }
+
+        System.out.println("...");
+
+    }
 
 }
 /*

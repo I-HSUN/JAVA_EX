@@ -2,9 +2,9 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex28 {
 
-	static public void main(String[] args) {
-		 System.out.print("Welcome to the world of Java");
-	}
+    static public void main(String[] args) {
+        System.out.print("Welcome to the world of Java");
+    }
 
 }
 /*

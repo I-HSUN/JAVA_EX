@@ -3,32 +3,29 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ex36{
+public class ex36 {
 
-	public static void main(String[] args) 
-	{
-		List ps = new ArrayList();
+    public static void main(String[] args) {
+        List ps = new ArrayList();
         Patient p2 = new Patient("Mike");
         ps.add(p2);
- 
-       
+
         int f = ps.indexOf(p2);
-        
-       
+
         System.out.println(f);
-        
+
         if (f >= 0) {
             System.out.print("Mike Found");
         }
-		
-		
-	}
+
+    }
 
 }
+
 class Patient {
-	 
+
     String name;
- 
+
     public Patient(String name) {
         this.name = name;
     }

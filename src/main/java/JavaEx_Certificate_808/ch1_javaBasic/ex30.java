@@ -2,16 +2,16 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex30 {
 
-	public static void main(String[] args) {
-		int a = -10;
-		int b = 17;
-		int c = ++a;
-		int d =b--;
-		c++;
-		d--;
-		System.out.print(c + ", " + d);
+    public static void main(String[] args) {
+        int a = -10;
+        int b = 17;
+        int c = ++a;
+        int d = b--;
+        c++;
+        d--;
+        System.out.print(c + ", " + d);
 
-	}
+    }
 
 }
 /*

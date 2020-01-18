@@ -2,22 +2,21 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex33 {
 
-	 void main() {
-	        System.out.println("one");
-	    }
-	 
-	    static void main(String args) {
-	        System.out.println("two");
-	    }
-	 
-	    public static void main(String[] args) {
-	        System.out.println("three");
-	    }
-	 
-	    void mina(Object[] args) {
-	        System.out.println("four");
-	    }
-	
+    void main() {
+        System.out.println("one");
+    }
+
+    static void main(String args) {
+        System.out.println("two");
+    }
+
+    public static void main(String[] args) {
+        System.out.println("three");
+    }
+
+    void mina(Object[] args) {
+        System.out.println("four");
+    }
 
 }
 /*

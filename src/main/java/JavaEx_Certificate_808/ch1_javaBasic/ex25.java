@@ -2,10 +2,10 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex25 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
 
-	}
+    }
 
 }
 /*

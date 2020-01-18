@@ -2,19 +2,18 @@ package JavaEx_Certificate_808.ch1_javaBasic;
 
 public class ex32 {
 
-	public static void main(String[] args) {
-		 String opt = "true";//line 5
-		    switch (opt) {// char ,int,short,byte,String
-		        case "true"://line 7
-		            System.out.print("True");
-		            break;
-		        default:
-		            System.out.print("***");
-		    }
-		    System.out.println("Done");
-		
+    public static void main(String[] args) {
+        String opt = "true";//line 5
+        switch (opt) {// char ,int,short,byte,String
+            case "true"://line 7
+                System.out.print("True");
+                break;
+            default:
+                System.out.print("***");
+        }
+        System.out.println("Done");
 
-	}
+    }
 
 }
 /*
