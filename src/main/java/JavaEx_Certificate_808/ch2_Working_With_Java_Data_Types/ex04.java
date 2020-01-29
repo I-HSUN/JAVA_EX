@@ -2,8 +2,7 @@ package JavaEx_Certificate_808.ch2_Working_With_Java_Data_Types;
 
 public class ex04 {
 
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {	
 	}
 
 }
